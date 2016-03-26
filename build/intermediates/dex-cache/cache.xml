@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-2226a87bff1e6b94e54d0c99c9c5b8d7d6c69b1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\Background\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\Background\build\intermediates\pre-dexed\debug\native-libs-b2e251eb35e6e9f9c78f1d44ca04a44fd81cd0ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\pre-dexed\debug\native-libs-cf0bc0580c62b553c78b8853b4661d2e166055e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\HelloWorld\build\intermediates\pre-dexed\debug\native-libs-db4f3730b81e2a638e612632369aa463ebbf78ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\Background\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\Background\build\intermediates\pre-dexed\debug\classes-8bdb4a980a31431b5e78b6a527c965af30533a30.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\kaushik\Documents\AndriodSDK\myo-android-sdk-0.10.0\myo-android-sdk-0.10.0\samples\MultipleMyos\build\intermediates\pre-dexed\debug\classes-262fca2c78699d4a75f36f27e61c0b4e84f2ec9d.jar" />
+    </item>
+
+</items>
